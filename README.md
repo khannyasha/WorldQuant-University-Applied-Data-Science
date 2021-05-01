@@ -1,6 +1,6 @@
 # WorldQuant-University-Applied-Data-Science
 
-# WorldQuant University's Applied Data Science Module
+# WorldQuant University's Applied Data Science Modules
 
 # 1) Applied Data Science I: 
 Scientific Computing & Python
