@@ -1,3 +1,6 @@
+If anyone get help by me. then please send pull requests it's very simple I uploaded one text file ( Friends_Name.text ) you just edit that file write your name.
+
+
 # WorldQuant-University-Applied-Data-Science
 
 # WorldQuant University's Applied Data Science Modules
